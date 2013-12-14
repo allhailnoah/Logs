@@ -37,3 +37,17 @@
 [2013-12-14 11:16:05.518] [INFO] Cassandra - michcioperz: Cassandra, can you hear me?
 [2013-12-14 11:16:05.526] [INFO] Cassandra - Cassandra: Yes.
 [2013-12-14 11:16:17.532] [INFO] Cassandra - michcioperz: Then why you not logging?
+[2013-12-14 11:16:42.530] [INFO] Cassandra - michcioperz: Something's wrong
+[2013-12-14 13:11:59.854] [INFO] Cassandra - FOLIS ARRIVES IN A BLAZE OF GLORY
+[2013-12-14 13:12:41.783] [INFO] Cassandra - Folis: Heyho, you people!
+[2013-12-14 13:20:06.102] [INFO] Cassandra - michcioperz: Hi Folis 
+[2013-12-14 13:20:16.908] [INFO] Cassandra - Folis: Oh, someones here! Yay!
+[2013-12-14 13:20:25.876] [INFO] Cassandra - michcioperz: What are you doing on this beautiful afternoon?
+[2013-12-14 13:20:51.303] [INFO] Cassandra - Folis: Getting started with my LD thing. I'm a bit late to the party, I guess. :p
+[2013-12-14 13:21:07.551] [INFO] Cassandra - michcioperz: Don't worry, I'm still tidying my room
+[2013-12-14 13:21:15.190] [INFO] Cassandra - Folis: Heh.
+[2013-12-14 13:21:27.908] [INFO] Cassandra - michcioperz: Mom says we have to do intense house tidying for Christmas
+[2013-12-14 13:21:43.579] [INFO] Cassandra - michcioperz: Oh, in case you don't know, Cassandra is AHNbot v2
+[2013-12-14 13:21:57.224] [INFO] Cassandra - michcioperz: Made in NodeJS instead
+[2013-12-14 13:22:08.451] [INFO] Cassandra - Folis: I see.
+[2013-12-14 13:22:36.227] [INFO] Cassandra - michcioperz: I didn't want to do that but fBot was a bit unstable, at least on my Pi
